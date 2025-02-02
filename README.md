@@ -3,7 +3,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanveersingh05&theme=midnight-aliceblue&hide_border=false&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanveersingh05&theme=midnight-aliceblue&hide_border=false&bg_color=00000000)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanveersingh05&theme=midnight-aliceblue&hide_border=true&background=1A1B27)
+<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanveersingh05&theme=midnight-aliceblue&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
 
