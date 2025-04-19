@@ -2,9 +2,10 @@
 # 👨🏽‍💻 About:
 ☁️ Cloud Computing Enthusiast <br/>
 ☕ Java Developer <br/>
+🐍 Python Programmer <br/>
+🧠 Machine Learning Explorer <br/>
 🧩 DSA Practitioner <br/>
 🍃 still learning... <br/>
-
 # 📊 Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=karanveersingh05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<hr/>
